@@ -64,4 +64,4 @@ Customer Experience: Average rating by item and outlet type highlights areas nee
 
 
 📸 Dashboard Preview
-Screenshot: ![Dashboard_Preview].(https://github.com/shlok01/Blinkit-Dash/blob/main/blinkit_screenshot.png)
+Screenshot:![Dashboard Screenshot](https://github.com/shlok01/Blinkit-Dash/blob/main/blinkit_screenshot.png)
